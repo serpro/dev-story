@@ -1,0 +1,36 @@
+{"frames": {
+
+"Intel_logo.png":
+{
+	"frame": {"x":2,"y":2,"w":586,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":586,"h":387},
+	"sourceSize": {"w":586,"h":387}
+},
+"next.png":
+{
+	"frame": {"x":254,"y":391,"w":250,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":100},
+	"sourceSize": {"w":250,"h":100}
+},
+"start.png":
+{
+	"frame": {"x":2,"y":391,"w":250,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":100},
+	"sourceSize": {"w":250,"h":100}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":590,"h":493},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:93fc950c97d0dfc1721c475a4f5651f2:cc3d735bf1e5e1c12672e86424383142:1eabdf11f75e3a4fe3147baf7b5be24b$"
+}
+}

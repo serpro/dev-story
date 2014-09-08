@@ -152,6 +152,7 @@ game.module(
 
             // Change scene
             game.system.setScene(App.Home.LevelOutro);
+            
         }
     };
 

@@ -11,7 +11,7 @@ Table of Contents
 - [Installation](#Iinstallation)
 - [What the story?](#whats-the-story)
 - [Who is this for?](#who-is-this-for)
-- [About the Intel® XDK](about-the-intel-xdk)
+- [About the Intel® XDK](#about-the-intel-xdk)
 - [Usage](#usage)
 - [Documentation](#documentation)
 - [Get Involved](#get-involved)
@@ -81,10 +81,10 @@ Don't forget to register at the [Intel® Developer Zone](http://software.intel.c
 
 We can’t wait to see what you create.
 
-Change Log
+<!--Change Log
 ------------
 
-v1.0
+v1.0-->
 
 License
 ------------

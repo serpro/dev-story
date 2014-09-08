@@ -1,18 +1,23 @@
 dev-story
 =========
-Dev Story/\*HACK THE CODE\*/
+###Dev Story/\*HACK THE CODE\*/###
+**An open-source mobile app. Coming soon to Google Play**
+
+![](https://github.com/IntelDevZone/dev-story/blob/master/images/screenshot1.jpg)
+![](https://github.com/IntelDevZone/dev-story/blob/master/images/screenshot2.jpg)
+![](https://github.com/IntelDevZone/dev-story/blob/master/images/screenshot3.jpg)
 
 Table of Contents
 -----------------  
-- [Installation](#Installation)
-- [What the story?](#What the story?)
-- [Who is this for?](#Who is this for?)
-- [About the Intel® XDK](#About the Intel® XDK)
-- [Usage](#Usage)
-- [Documentation](#Documentation)
-- [Get Involved](#Get Involved)
-- [Change Log](#Change Log)
-- [License](#License)
+- [Installation](#Iinstallation)
+- [What the story?](#whats-the-story)
+- [Who is this for?](#who-is-this-for)
+- [About the Intel® XDK](about-the-intel-xdk)
+- [Usage](#usage)
+- [Documentation](#documentation)
+- [Get Involved](#get-involved)
+- [Change Log](#change-log)
+- [License](#license)
 
 Installation
 ------------
@@ -22,9 +27,9 @@ To install, simply clone the project to your local directory
 
 Visit the [Intel® Developer Zone](http://software.intel.com/) and download and install the [Intel® XDK](https://software.intel.com/en-us/html5/tools).
 
-What the story?
+What's the story?
 ------------
-Intel challenged a small team of developers to build an open source app. They created <span>Dev Story/\*HACK THE CODE\*/</span>, a set of mini-challenges about the development cycle of an app. But it’s not finished yet.
+Intel challenged a small team of developers to build an open source app. They created Dev Story/\*HACK THE CODE\*/, a set of mini-challenges about the development cycle of an app. But it’s not finished yet.
 
 We’re bringing developers together from around the world to build something special and unique. So whether you’re honing your skills or flexing your coding muscles, you can modify and shape the open source code however you choose.
 
@@ -74,6 +79,8 @@ We can’t wait to see what you create.
 
 Change Log
 ------------
+
+v1.0
 
 License
 ------------

@@ -3,9 +3,9 @@ dev-story
 ###Dev Story/\*HACK THE CODE\*/###
 **An open-source mobile app. Coming soon to Google Play**
 
-![](https://github.com/IntelDevZone/dev-story/blob/master/images/screenshot1.jpg)
-![](https://github.com/IntelDevZone/dev-story/blob/master/images/screenshot2.jpg)
-![](https://github.com/IntelDevZone/dev-story/blob/master/images/screenshot3.jpg)
+![](https://github.com/IntelDevZone/dev-story/blob/master/screenshot1.jpg)
+![](https://github.com/IntelDevZone/dev-story/blob/master/screenshot2.jpg)
+![](https://github.com/IntelDevZone/dev-story/blob/master/screenshot3.jpg)
 
 Table of Contents
 -----------------  

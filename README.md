@@ -1,11 +1,10 @@
 dev-story
 =========
 ###Dev Story/\*HACK THE CODE\*/###
-**An open-source mobile app. Coming soon to Google Play**
-
 ![](https://github.com/IntelDevZone/dev-story/blob/master/screenshot1.jpg)
 ![](https://github.com/IntelDevZone/dev-story/blob/master/screenshot2.jpg)
 ![](https://github.com/IntelDevZone/dev-story/blob/master/screenshot3.jpg)
+**An open-source mobile app. Coming soon to Google Play**
 
 Table of Contents
 -----------------  
@@ -39,6 +38,11 @@ Who is this for?
 ------------
 Anyone with experience with HTML, CSS and JavaScript.
 
+This project makes use of two JavaScript libraries:
+
+- [Panda.js](http://www.pandajs.net/) - Free html5 game engine
+- [Pixi.js](http://www.pixijs.com/) - 2D webGL renderer with canvas fallback
+
 Usage
 ------------
 Open the DevStory.xdk project file with the [Intel® XDK](https://software.intel.com/en-us/html5/tools).
@@ -47,7 +51,7 @@ Enable developer mode in main.js
 	
 	App.developer = true;
 
-Preview the app in the Intel® XDK Emulate tab or [Google Chrome Emulation Mode](https://developer.chrome.com/devtools/docs/device-mode)
+Preview the app in the Intel® XDK Emulate tab or open up index.html in [Google Chrome Emulation Mode](https://developer.chrome.com/devtools/docs/device-mode)
 
 About the Intel® XDK
 ------------

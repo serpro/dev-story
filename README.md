@@ -8,7 +8,7 @@ dev-story
 
 Table of Contents
 -----------------  
-- [Installation](#Iinstallation)
+- [Installation](#installation)
 - [What the story?](#whats-the-story)
 - [Who is this for?](#who-is-this-for)
 - [About the Intel® XDK](#about-the-intel-xdk)
@@ -38,8 +38,9 @@ Who is this for?
 ------------
 Anyone with experience with HTML, CSS and JavaScript.
 
-This project makes use of two JavaScript libraries:
+This project utilises:
 
+- [jQuery](http://jquery.com/) - JavaScript framework
 - [Panda.js](http://www.pandajs.net/) - Free html5 game engine
 - [Pixi.js](http://www.pixijs.com/) - 2D webGL renderer with canvas fallback
 

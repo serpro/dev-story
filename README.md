@@ -1,5 +1,6 @@
 dev-story
 =========
+![](https://github.com/IntelDevZone/dev-story/blob/master/creative/splash.jpg)
 ###Dev Story/\*HACK THE CODE\*/###
 ![](https://github.com/IntelDevZone/dev-story/blob/master/creative/screenshot1.jpg)
 ![](https://github.com/IntelDevZone/dev-story/blob/master/creative/screenshot2.jpg)

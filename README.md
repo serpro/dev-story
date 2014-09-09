@@ -20,7 +20,7 @@ Table of Contents
 
 Installation
 ------------
-To install, simply clone the project to your local directory
+To install, simply clone the project to your local directory:
 
 	git clone https://github.com/IntelDevZone/dev-story.git
 
@@ -52,15 +52,15 @@ Enable developer mode in main.js
 	
 	App.developer = true;
 
-Preview the app in the Intel® XDK Emulate tab or open up index.html in [Google Chrome Emulation Mode](https://developer.chrome.com/devtools/docs/device-mode)
+Preview the app in the Intel® XDK Emulate tab or open up index.html in [Google Chrome Emulation Mode](https://developer.chrome.com/devtools/docs/device-mode).
 
 About the Intel® XDK
 ------------
 [Intel® XDK](https://software.intel.com/en-us/html5/tools) provides a simplified workflow to enable developers to easily design, debug, build, and deploy HTML5 web and hybrid apps across multiple app stores, and form factor devices.
 
 - Make changes to the code using the built-in IDE in the Develop tab.
-- Quickly preview the app in the Emulate tab
-- Run the app on a mobile device using the various build options under the Build tab
+- Quickly preview the app in the Emulate tab.
+- Run the app on a mobile device using the various build options under the Build tab.
 
 Documentation & futher reading
 ------------
@@ -78,7 +78,7 @@ Want to be part of Dev Story/\*HACK THE CODE\*/? We want you to take the reins (
 
 Build your new levels, mini challenges and mods. Share your ideas with us. If any of them make it into version 2.0, you’ll get the credit!
 
-Don't forget to register at the [Intel® Developer Zone](http://software.intel.com/)
+Don't forget to register at the [Intel® Developer Zone](http://software.intel.com/).
 
 We can’t wait to see what you create.
 

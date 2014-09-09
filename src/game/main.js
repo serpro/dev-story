@@ -41,7 +41,7 @@ game.module(
 
         // Enable/disable sound
         App.sound_disabled = false;
-        App.developer = true;
+        App.developer = false;
 
         // Set orientation
         game.System.resizeToFill = true;

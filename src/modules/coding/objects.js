@@ -59,8 +59,8 @@ game.module(
                     this.icon.anchor.set(0.5,0.5);
                     this.icon.position.x = 0;
                     this.icon.position.y = 0;
-                    if(this.hex.row === 0){ this.icon.tint = App.currentPalette[2]; }
-                    if(this.hex.row === 1){ this.icon.tint = App.currentPalette[1]; }
+                    if(this.hex.row === 0){ this.icon.tint = App.currentPalette[1]; }
+                    if(this.hex.row === 1){ this.icon.tint = App.currentPalette[2]; }
                     if(this.hex.row === 2){ this.icon.tint = App.currentPalette[0]; }
                     this.icon.scaleIn = new game.Tween(this.icon.scale).to({ x: 1, y: 1 }, 500);
                     this.icon.scaleOut = new game.Tween(this.icon.scale).to({ x: 0, y: 0 }, 500);
